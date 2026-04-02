@@ -1,71 +1,56 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Pixel Art Cloud" />
+
+  <h1>👾 START GAME: MARCOS JUNIOR 👾</h1>
+  <h3>☁️ Cloud Infrastructure Explorer | 🛠️ IT Operations & Automation</h3>
   
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Marcos%20Junior&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student%20|%20IT%20Infrastructure%20&descAlignY=62&descSize=20" width="100%" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Engenharia%20de%20Software-blue?style=flat-square&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IT%20Infrastructure-333333?style=flat-square&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Information%20Security-red?style=flat-square&logo=looker&logoColor=white" />
+  <p>
+    De operações físicas de datacenter (Smart Hands) para a arquitetura lógica em Nuvem. <br>
+    Atualmente "farmando XP" em <b>Engenharia de Software</b>, construindo automações e provisionando infraestrutura como código.
   </p>
-
-  ---
-
-  ### 💫 "Transformando lógica em soluções e infraestrutura em segurança."
-
 </div>
 
-## 📖 Sobre Mim
-Olá! Prazer, me chamo **Marcos**, estudante de Engenharia de Software apaixonado por entender como as coisas funcionam "debaixo do capô". Tenho um forte interesse em **Segurança da Informação** e **Infraestrutura de TI**. Além do código, sou entusiasta de hardware, otimização de performance e, claro, fanatico por **Jogos**.
+<br>
 
-* 🌍 Atualmente aprimorando meu **Inglês** para conexões globais.
-* 🛠️ Experiência prática com manutenção e otimização de sistemas.
-* 🚀 Em constante evolução em **Cloud Computing** e **DevOps**.
+## 🛡️ STATUS DO PERSONAGEM
+* **Classe:** Analista de Infraestrutura / Foco em Cloud
+* **Base Stats:** Mais de 4 anos operando redes, servidores, roteadores e firewalls.
+* **Guilda Atual:** Estudando AWS, Python para automação e ecossistema Node.js.
+* **Contato:** [LinkedIn](https://www.linkedin.com/in/marcos-cp-junior) | marcosjunior00770@gmail.com
 
----
+<br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎒 INVENTÁRIO (Tech Stack)
+*Abaixo estão os artefatos que carrego na minha jornada técnica:*
 
-### 💻 Desenvolvimento & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+### ☁️ Cloud & Infraestrutura
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
-### 🛡️ Infraestrutura & Segurança
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+### 🐍 Automação & Código
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
 
----
+### 🌐 Redes & Segurança
+<img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/VPN-Secure-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Firewall-Active-red?style=for-the-badge" />
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosJr001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJr001&layout=compact&theme=tokyonight&hide_border=false" height="180em" />
-</div>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosJr001&theme=tokyonight&hide_border=false" width="100%" />
-</div>
+## 🗺️ MISSÕES ATIVAS (Projetos em Destaque)
+*Meus laboratórios práticos focados em infraestrutura, redes e nuvem.*
 
----
+### 1. 🏗️ [terraform-aws-network-base](link-do-repositorio-aqui)
+**Descrição:** *Building the Base Camp.* Código em Terraform para provisionamento de infraestrutura básica na AWS. Criação de VPC, sub-redes e configuração de Security Groups para garantir o isolamento seguro dos recursos.
+**Tech:** AWS, IaC, Networking.
 
-## 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 2. ⚡ [aws-boto3-cost-optimizer](link-do-repositorio-aqui)
+**Descrição:** *Auto-Healing & Resource Management.* Script de automação desenvolvido para identificar e desligar instâncias EC2 ociosas fora do horário comercial, reduzindo os custos de operação do datacenter em nuvem.
+**Tech:** Python, AWS Boto3.
 
----
+### 3. 🎮 [custom-multiplayer-infra](link-do-repositorio-aqui)
+**Descrição:** *Multiplayer Realm Hosting.* Documentação da engenharia de redes para hospedagem de um servidor de jogos. Envolve a configuração de port forwarding, liberação no firewall do SO e estruturação lógica para suportar regras de acesso customizadas no servidor (como restrições sistêmicas baseadas na cor primária vermelha e auxiliares branca, preta e marrom).
+**Tech:** Linux, Roteamento, Firewall, TCP/UDP.
+
+<br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Frase do dia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosJr001&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
 </div>
